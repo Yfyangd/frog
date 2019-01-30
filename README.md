@@ -10,7 +10,7 @@ In this study, we try to use MFCC (Mel-Frequency Cepstrum) to extract the featur
 
 <img style="float: left;" src="frog.png" width="90%">
 
-
+## Result
 | Model | Initial Model  | Model turning | Testing |
 | :--: | :--: | :--: | :--: |
 | SVM | 0.8 | 0.94 | 0.99 |
