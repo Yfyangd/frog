@@ -19,7 +19,7 @@ In this study, we try to use MFCC (Mel-Frequency Cepstrum) to extract the featur
 | LightGBM | 0.85 | 0.85 | 0.85 |
 
 
-## Referrence
+## Reference
 http://www.froghome.idv.tw/html/class_6/website.html
 
 http://wagner.zo.ntu.edu.tw/multi-database/amph/index.htm
