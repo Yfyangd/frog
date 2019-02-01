@@ -17,3 +17,8 @@ In this study, we try to use MFCC (Mel-Frequency Cepstrum) to extract the featur
 | Random Forst | 0.6 | 0.90 | 0.95 |
 | XGBoost | 0.75 | 0.85 | 0.75 |
 | LightGBM | 0.85 | 0.85 | 0.85 |
+
+
+## Referrence
+http://www.froghome.idv.tw/html/class_6/website.html
+http://wagner.zo.ntu.edu.tw/multi-database/amph/index.htm
