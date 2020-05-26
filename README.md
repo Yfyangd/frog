@@ -23,3 +23,6 @@ In this study, we try to use MFCC (Mel-Frequency Cepstrum) to extract the featur
 http://www.froghome.idv.tw/html/class_6/website.html
 
 http://wagner.zo.ntu.edu.tw/multi-database/amph/index.htm
+
+
+<img style="float: left;" src="image/0523.jpg" width="90%">
