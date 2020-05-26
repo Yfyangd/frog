@@ -25,4 +25,4 @@ http://www.froghome.idv.tw/html/class_6/website.html
 http://wagner.zo.ntu.edu.tw/multi-database/amph/index.htm
 
 
-<img style="float: left;" src="image/0523.jpg" width="90%">
+<img style="float: left;" src="image/0524.jpg" width="90%">
