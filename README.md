@@ -1,4 +1,4 @@
-# Taiwan's Frog Sounds Classification
+# Taiwan's Frog Sounds Recognition
 
 <img style="float: left;" src="image/Olive.jpg" width="90%">
 
